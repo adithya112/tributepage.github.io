@@ -1,0 +1,48 @@
+h1{
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 200%;
+	font-family: serif;
+}
+.pride{
+	text-align: center;
+	font-variant: small-caps;
+	font-size: 150%;
+}
+.body{
+	padding: 1%;
+	margin: 1%;
+	background-color: #87ceeb;
+}
+img{
+	width: 50vw;
+	padding:5% 13% 5% 10%;
+	margin: 0 auto;
+	
+
+}
+.img{
+	margin: 0 auto;
+	padding:0;
+	background-color: white;
+	width: 50%;
+}
+.para{
+	text-align: center;
+	font-size: 150%;
+	padding-bottom: 3%;
+}
+ul{
+	font-size: 120%;
+}
+.foot{
+	text-align: center;
+	font-size: 150%;
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+.link{
+	font-size: 150%;
+}
